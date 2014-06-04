@@ -35,6 +35,8 @@
 		DAEC12B1193F0BEF00CD6813 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DAEC12B2193F0BEF00CD6813 /* PlayWithFunTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayWithFunTests.swift; sourceTree = "<group>"; };
 		DAEC12BC193F0C0800CD6813 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		DAEC12BD193F0D6300CD6813 /* iOSPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = iOSPlayground.playground; sourceTree = "<group>"; };
+		DAEC12BE193F0E7C00CD6813 /* OSXPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OSXPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,8 @@
 			children = (
 				DAEC12A1193F0BEF00CD6813 /* AppDelegate.swift */,
 				DAEC12BC193F0C0800CD6813 /* MyPlayground.playground */,
+				DAEC12BD193F0D6300CD6813 /* iOSPlayground.playground */,
+				DAEC12BE193F0E7C00CD6813 /* OSXPlayground.playground */,
 				DAEC12A3193F0BEF00CD6813 /* Images.xcassets */,
 				DAEC12A5193F0BEF00CD6813 /* MainMenu.xib */,
 				DAEC129D193F0BEF00CD6813 /* Supporting Files */,
@@ -401,6 +405,7 @@
 				DAEC12B8193F0BEF00CD6813 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAEC12B9193F0BEF00CD6813 /* Build configuration list for PBXNativeTarget "PlayWithFunTests" */ = {
 			isa = XCConfigurationList;
@@ -409,6 +414,7 @@
 				DAEC12BB193F0BEF00CD6813 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
