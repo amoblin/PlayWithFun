@@ -34,6 +34,7 @@
 		DAEC12AC193F0BEF00CD6813 /* PlayWithFunTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlayWithFunTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAEC12B1193F0BEF00CD6813 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DAEC12B2193F0BEF00CD6813 /* PlayWithFunTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayWithFunTests.swift; sourceTree = "<group>"; };
+		DAEC12BC193F0C0800CD6813 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				DAEC12A1193F0BEF00CD6813 /* AppDelegate.swift */,
+				DAEC12BC193F0C0800CD6813 /* MyPlayground.playground */,
 				DAEC12A3193F0BEF00CD6813 /* Images.xcassets */,
 				DAEC12A5193F0BEF00CD6813 /* MainMenu.xib */,
 				DAEC129D193F0BEF00CD6813 /* Supporting Files */,
